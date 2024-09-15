@@ -1,0 +1,13 @@
+numpy
+pandas
+emoji
+beautifulsoup4
+matplotlib
+seaborn
+torch
+transformers
+scikit-learn
+optuna
+ray
+plotly
+tensorboard
